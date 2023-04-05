@@ -21,7 +21,7 @@ VR Simulation for Nailing Wooden Studs made in Unity for Oculus Quest
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Prototype project that provides pathfinding for Light Wall Frame stud nailing and object snapping user stories.
+Prototype project that provides pathfinding for Light Wall Frame stud nailing and grabbable object snapping user stories for supporting computer science seniors and graduates in their LFW Teaching Simulation capstone project work.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
